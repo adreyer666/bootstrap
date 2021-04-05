@@ -1,0 +1,2 @@
+# bootstrap
+Vagrant server
